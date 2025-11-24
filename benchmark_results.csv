@@ -1,0 +1,5 @@
+Data Structure,Avg Time (ms),Avg Accuracy (%),Avg Memory (KB),Avg Suggestions,Build Time (ms),Search Time (ms),Time Complexity,Space Complexity
+Trie,0.027,100.0,2361.7,66.8,2.726,0.026,O(L),O(N*L)
+AVLTree,0.672,100.0,1464.6,66.8,87.107,0.665,O(log n),O(n)
+SegmentTree,0.300,100.0,3514.7,66.8,10.289,0.290,O(log n),O(n)
+SuffixTree,0.001,0.0,7385.2,0.0,20.717,0.003,O(n),O(n^2)
